@@ -138,6 +138,10 @@ a.GitHub {
   box-shadow: 0 4px 30px rgba(63, 65, 67, 0);
 }
 
+a.LinkedIn {
+  background: linear-gradient(45deg, #0624aa, #0e71c8);
+  box-shadow: 0 4px 30px rgba(19, 127, 212, 0.7);
+}
 .profile-card_actions {
   display: flex;
   align-items: center;
